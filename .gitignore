@@ -18,3 +18,10 @@ pip-selfcheck.json
 /build
 /dist
 *.eggs
+
+buck-out
+.buckd
+buckaroo
+buckaroo_macros.bzl
+.buckconfig.d
+.buckconfig.local
